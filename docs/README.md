@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: Datafellesskapet
-tagline: Sterkere sammen
+heroText: datafellesskapet
+tagline: sterkere sammen
 navbar: false
 ---

@@ -14,7 +14,7 @@ module.exports = {
       {
         rel: "stylesheet",
         href:
-          "https://fonts.googleapis.com/css?family=Merriweather:300&display=swap"
+          "https://fonts.googleapis.com/css?family=Lora:600&display=swap"
       }
     ],
     // ["link", {
